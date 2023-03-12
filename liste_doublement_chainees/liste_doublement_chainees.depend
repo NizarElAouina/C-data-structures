@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1639928994 source:c:\users\nizar\desktop\std\liste_doublement_chainees\fonction.c
+	"header.h"
+
+1639928893 c:\users\nizar\desktop\std\liste_doublement_chainees\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1639929138 source:c:\users\nizar\desktop\std\liste_doublement_chainees\main.c
+	"header.h"
+

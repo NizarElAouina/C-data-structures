@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1639935469 source:c:\users\nizar\desktop\structures de données\arbre\function.c
+	"header.h"
+
+1639935538 c:\users\nizar\desktop\structures de données\arbre\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1639935635 source:c:\users\nizar\desktop\structures de données\arbre\main.c
+	"header.h"
+

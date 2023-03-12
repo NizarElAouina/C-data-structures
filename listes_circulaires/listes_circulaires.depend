@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1639833781 source:c:\users\nizar\desktop\structures de données\listes_circulaires\fonction.c
+
+1639843893 source:c:\users\nizar\desktop\structures de données\listes_circulaires\main.c
+	<stdio.h>
+	<stdlib.h>
+
